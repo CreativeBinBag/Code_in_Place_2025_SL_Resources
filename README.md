@@ -1,6 +1,6 @@
 # Code in Place 2025: Section Repository
 
-  Hi, all, welcome to our Code in Place 2025 section! I'm excited to serve as your Section Leader and guide you through this incredible journey. My goal is to help you build strong coding skills, gain confidence, and collaborate effectively with your peers.
+Hi, all, welcome to our Code in Place 2025 section! I'm excited to serve as your Section Leader and guide you through this incredible journey. My goal is to help you build strong coding skills, gain confidence, and collaborate effectively with your peers.
 
 ---
 
@@ -9,12 +9,14 @@
 To get up and running:
 
 1. **Clone the repository**
+
    ```bash
    git clone https://github.com/<your-username>/code-in-place-2025.git
    cd code-in-place-2025
    ```
 
 2. **Install Stanford Karel**
+
    ```bash
    pip install stanfordkarel==0.2.7
    ```
@@ -50,7 +52,3 @@ If you encounter any issues or have questions about the CIP interface, feel free
 > "Remember, the best way to learn is by doing! Let's write code together and make the most of Code in Place 2025."
 
 ---
-
-## 📄 License
-
-This repository is licensed under the [MIT License](LICENSE).
